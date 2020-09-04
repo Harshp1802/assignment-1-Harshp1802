@@ -6,10 +6,10 @@ Harsh Patel
 
 ## The objective of this assignment is to create a shell in C with the following functionalities:
 1) Run inbuilt binaries (like ps, pmap, wget, etc.) with arguments.
-      #### [command] [arguments]
+      #### `[command] [arguments]`
 ### Implementation of following commands:
 2) ls (Argument is either directory name or no argument at all):
-      #### ls [No argument/ One or Multiple Directories]
+      #### `ls [No argument/ One or Multiple Directories]`
 3) grep (requirements are same as those for wgrep given here: [![Link](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities)]):
       #### grep [search_term] [One or Multiple Files]
 4) cat (requirements are same as those for wcat given here: [![Link](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities)]):
