@@ -7,7 +7,7 @@ An example Makefile is provided. Modify it to compile your shell. Dummy files sh
 
 ### Implementation of following commands:
 2) ls (Argument is either directory name or no argument at all):
-#### ls [No argument/ One or Multiple Directories]
+      #### ls [No argument/ One or Multiple Directories]
 grep (requirements are same as those for wgrep given here: Link) [2 mark]
 cat (requirements are same as those for wcat given here: Link) [1 mark]
 Mv [0.5 marks]
